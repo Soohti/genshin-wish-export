@@ -60,10 +60,7 @@
       "icon": "build/icons/icon.icns",
       "target": {
         "target": "dmg",
-        "arch": [
-          "x64",
-          "arm64"
-        ]
+        "arch": "arm64"
       }
     },
     "win": {
